@@ -1,0 +1,6 @@
+{
+    "board": "m5stack:esp32:m5stack-core-esp32",
+    "port": "COM5",
+    "configuration": "FlashMode=qio,FlashFreq=80,PartitionScheme=default,UploadSpeed=921600,DebugLevel=none",
+    "sketch": "m5stack-2axis-cutie.ino"
+}
